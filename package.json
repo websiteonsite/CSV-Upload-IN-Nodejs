@@ -1,5 +1,5 @@
 {
-  "name": "csvupload",
+  "name": "csv-upload",
   "version": "1.0.0",
   "description": "A web app to read csv files",
   "main": "index.js",
@@ -19,5 +19,6 @@
     "mongoose": "^7.1.0",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {}
 }
