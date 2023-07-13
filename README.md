@@ -30,6 +30,22 @@ $ http://localhost:8000
 * CSV parsing: The application parses the CSV data and displays it in a table.
 * Searching: Users can search data in the table.
 
+## Screenshots
+User View of Homepage
+
+* Homepage
+
+  <img width="937" alt="Screenshot 2023-07-13 192334" src="https://github.com/websiteonsite/Habit-Tracker/assets/130152473/46d39920-9d17-451a-8a5c-d51995b6e2dd">
+   
+* Uploaded csv files : Tabular display
+
+<img width="889" alt="Screenshot 2023-07-13 192524" src="https://github.com/websiteonsite/CSV-Upload-IN-Nodejs/assets/130152473/b089e1fa-2113-402b-80f7-8a04ad42d4a6">
+
+* Csv File View Page
+
+  <img width="924" alt="Screenshot 2023-07-13 192605" src="https://github.com/websiteonsite/CSV-Upload-IN-Nodejs/assets/130152473/efa1a44b-ddbc-4114-bda8-db960f6b2ed4">
+
+
 ## Folder Structure
 ```
 CSV_Upload/
